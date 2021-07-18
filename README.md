@@ -7,8 +7,42 @@ Kate and I wanted to start an equivalent to NYC Citi Bikes in our hometown of De
 [Tableau Story Board](https://public.tableau.com/views/NYC_Citibike_16265932559510/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+
+1. Top Starting Locations
+
+- The majority of bikers tend to be in Lower and Midtown Manhattan. The focus in marketing and adding bikes should be in high populated areas like those. 
+![image 1](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/top_starting_locations.png)
+
+2. Trips by User Type
+
+- The majority of users are Subscribers. Showing good retention of customers and a steady flow of users. 
+![image 2](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/type_of_user.png)
+
+3. Checkout Times for all Users
+
+- The most common ride time is 5 minutes. 
+![image 3](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/checkout_time_for_users.png)
+
+4. Checkout Times by Gender
+
+- The amount of bikes checked out by men far outnumbers the amount by women.
+![image 4](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/checkout_time_by_gender.png) 
+
+5. Trips by Day of Week and Hour
+
+- The majority of rides seem to be to and from work (or other things) and then during the day on weekends. 
+![image 5](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/trips_by_weekday_per_hour.png)
+
+6. Trips by Gender by Day of Week and Hour
+
+- Both Men and women tend to use bikes most en route to work and going home from the work during the week. The peaks are during thhe day on the weekends.
+![image 6](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/trips_by_gender_by_weekday_hour.png)
+
+7. Trips by User Type and Day of Week by Gender
+
+- The largest user time is male subscribers. There should be efforts to focus on marketing to more women. 
+![image 7](https://github.com/chloebellehooton/NYC_CitiBike/blob/main/images/user_trips_by_gender.png%20.png)
+
 
 
 ## Summary
